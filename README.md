@@ -58,6 +58,7 @@ I turn complex enterprise systems and business processes into clear, structured 
 ## 📂 Featured work
 
 - 🌐 **[Technical writing portfolio](https://avinash0789.github.io/)** – process docs, SOPs, API reference, AI knowledge base, release notes and case studies (built with MkDocs Material + GitHub Actions)
+- 🔄 **Process stream documentation** – [Campaign-to-Order](https://avinash0789.github.io/streams/campaign-to-order/) · [Order-to-Cash](https://avinash0789.github.io/samples/order-to-cash/) · [Delivery Apps](https://avinash0789.github.io/streams/delivery-apps/) · [Issue-to-Resolution](https://avinash0789.github.io/streams/issue-to-resolution/) · [Plan-to-Produce](https://avinash0789.github.io/streams/plan-to-produce/) · [Plan-to-Implement](https://avinash0789.github.io/streams/plan-to-implement/) · [Hire-to-Retire](https://avinash0789.github.io/streams/hire-to-retire/)
 - 📰 **[Published release notes – InsuredMine, Feb 2024](https://www.insuredmine.com/knowledge-base/release-notes-february-2024/)**
 
 ## 🎓 Education & certifications
